@@ -1,0 +1,31 @@
+1>------ Сборка начата: проект: ZERO_CHECK, Конфигурация: Debug x64 ------
+1>Checking Build System
+2>------ Сборка начата: проект: Task_8__Trees, Конфигурация: Debug x64 ------
+2>Building Custom Rule C:/Users/oval/Desktop/Sem-2-Task-8-Binary-Tree-master/CMakeLists.txt
+2>main.cpp
+2>sourceTree.cpp
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(203,27): error C2131: выражение не определяется константой
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(203,27): message : сбой вызван чтением переменной вне срока ее существования
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(203,27): message : см. использование "N"
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(208,31): error C2131: выражение не определяется константой
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(208,35): message : сбой вызван чтением переменной вне срока ее существования
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(208,35): message : см. использование "n"
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(226,102): error C3863: тип массива "std::pair<char,int> ['функция']" является неназначаемым
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(227,103): error C3863: тип массива "std::pair<char,int> ['функция']" является неназначаемым
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(230,102): error C3863: тип массива "std::pair<char,int> ['функция']" является неназначаемым
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(232,103): error C3863: тип массива "std::pair<char,int> ['функция']" является неназначаемым
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(355,27): error C2131: выражение не определяется константой
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(355,27): message : сбой вызван чтением переменной вне срока ее существования
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(355,27): message : см. использование "N"
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(360,31): error C2131: выражение не определяется константой
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(360,35): message : сбой вызван чтением переменной вне срока ее существования
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(360,35): message : см. использование "n"
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(378,102): error C3863: тип массива "std::pair<char,int> ['функция']" является неназначаемым
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(379,103): error C3863: тип массива "std::pair<char,int> ['функция']" является неназначаемым
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(382,102): error C3863: тип массива "std::pair<char,int> ['функция']" является неназначаемым
+2>C:\Users\oval\Desktop\Sem-2-Task-8-Binary-Tree-master\sourceTree.cpp(384,103): error C3863: тип массива "std::pair<char,int> ['функция']" является неназначаемым
+2>Создание кода...
+2>Сборка проекта "Task_8__Trees.vcxproj" завершена с ошибкой.
+3>------ Пропуск сборки: проект: ALL_BUILD, Конфигурация: Debug x64 ------
+3>Проект не выбран для сборки в данной конфигурации решения 
+========== Сборка: успешно: 1, с ошибками: 1, без изменений: 0, пропущено: 1 ==========
